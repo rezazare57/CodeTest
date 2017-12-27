@@ -1,1 +1,3 @@
-input("i'm hungry")
+a= input("enter a number : ")
+print(a)
+
